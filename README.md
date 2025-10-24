@@ -8,8 +8,7 @@
 
 <p align="center">
   Official brand identity assets for <strong>XSunEC</strong> — a smart-appliance brand specializing in compact, reliable, and innovative products for the global market.<br/>
-  <a href="https://xsunec.com" target="_blank">🌐 xsunec.com</a> |
-  <a href="mailto:brand@xsunec.com">✉️ brand@xsunec.com</a>
+  🌐 <a href="https://xsunec.com" target="_blank">xsunec.com</a> | ✉️ <a href="mailto:victor@xsunec.com">victor@xsunec.com</a> | 📞 <a href="https://wa.me/14588368672" target="_blank">+1&nbsp;458&nbsp;836&nbsp;8672</a>
 </p>
 
 ---
