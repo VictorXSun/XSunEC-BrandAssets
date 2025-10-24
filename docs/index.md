@@ -27,17 +27,15 @@ Official brand identity assets for **XSunEC** — a smart-appliance brand specia
 
 ---
 
-## Preview
-
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/main/XSunEC_MainLogo.png" width="260"/><br/>Main Logos</td>
-    <td align="center"><img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/symbols/XSunEC_MainSymbol.svg" width="120"/><br/>Symbols</td>
-    <td align="center"><img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/variants/XSunEC_StackedLogo.png" width="220"/><br/>Variants</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/main/XSunEC_MainLogo.png" width="260"/><br/>Main Logos</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/symbols/XSunEC_MainSymbol.png" width="120"/><br/>Symbols</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/variants/XSunEC_StackedLogo.png" width="220"/><br/>Variants</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/badges/XSunEC_Badge_DualSegment_v3c_preview.png" width="200"/><br/>Badges</td>
-    <td align="center"><img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/banners/XSunEC_Brandfetch_Banner_1536x1024.png" width="260"/><br/>Banners</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/badges/XSunEC_Badge_DualSegment_v3c_preview.png" width="200"/><br/>Badges</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/banners/XSunEC_Brandfetch_Banner_1536x1024.png" width="260"/><br/>Banners</td>
     <td align="center"><a href="../README.md">README (repo)</a></td>
   </tr>
 </table>
