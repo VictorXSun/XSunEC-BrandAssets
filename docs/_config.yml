@@ -1,0 +1,34 @@
+title: "XSunEC · BrandAssets"
+description: "Official brand identity assets — Smart · Compact · Reliable"
+theme: minima
+logo: "/logos/badges/XSunEC_Badge_DualSegment_v3c_preview.png"
+show_downloads: false
+google_analytics: false
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Repository"
+    url: "https://github.com/VictorXSun/XSunEC-BrandAssets"
+  - title: "XSunEC.com"
+    url: "https://xsunec.com"
+
+# Social links
+social_links:
+  - name: "WhatsApp"
+    url: "https://wa.me/14588368672"
+  - name: "Email"
+    url: "mailto:victor@xsunec.com"
+
+# Build settings
+exclude:
+  - README.md
+  - INDEX.md
+  - "*.ai"
+  - "*.pdf"
+  - "*.psd"
