@@ -3,6 +3,23 @@ title: XSunEC · Brand Logos Index
 description: Central directory for all XSunEC logo assets — main logos, symbols, variants, badges, and banners.
 ---
 
+<!--
+===============================================
+🔖 XSunEC BrandAssets — /docs/logos/index.md (v1.1)
+Enhanced with Open Graph / Twitter SEO metadata
+===============================================
+Recommended meta (auto-injected by Pages):
+  <meta property="og:title" content="XSunEC · Brand Logos Index" />
+  <meta property="og:description" content="Central directory for all XSunEC logo assets — main logos, symbols, variants, badges, and banners." />
+  <meta property="og:image" content="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/banners/XSunEC_Brandfetch_Banner_1536x1024.png" />
+  <meta property="og:url" content="https://brand.xsunec.com/logos/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="XSunEC · Brand Logos Index" />
+  <meta name="twitter:description" content="Official brand logo hub for XSunEC." />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/banners/XSunEC_Brandfetch_Banner_1536x1024.png" />
+  <link rel="icon" href="https://raw.githubusercontent.com/VictorXSun/XSunEC-BrandAssets/main/logos/symbols/XSunEC_MainSymbol.png" />
+-->
+
 # XSunEC · Brand Logos Index
 
 Explore the official brand logo collections for **XSunEC**.  
