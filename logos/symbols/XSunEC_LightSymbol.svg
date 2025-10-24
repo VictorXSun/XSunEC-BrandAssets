@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" viewBox="0 0 512 512">
+  <title>XSunEC · LightSymbol · Crescent · Final</title>
+
+  <g id="symbol" fill="#FFFFFF" stroke="#FFFFFF">
+    <path fill="#FFFFFF" fill-rule="evenodd"
+          d="M256,10 A246,246 0 1,1 255.9,10 Z
+             M282,36 A220,220 0 1,1 281.9,36 Z"/>
+        <path d="M90,215 m-14.4,0 a14.4,14.4 0 1,0 28.8,0 a14.4,14.4 0 1,0 -28.8,0Z"/>
+    <path d="M186,205 m-12.8,0 a12.8,12.8 0 1,0 25.6,0 a12.8,12.8 0 1,0 -25.6,0Z"/>
+    <path d="M261,240 m-13.6,0 a13.6,13.6 0 1,0 27.2,0 a13.6,13.6 0 1,0 -27.2,0Z"/>
+    <path d="M331,285 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0Z"/>
+    <path d="M351,355 m-10.4,0 a10.4,10.4 0 1,0 20.8,0 a10.4,10.4 0 1,0 -20.8,0Z"/>
+    <path d="M441,370 m-11.2,0 a11.2,11.2 0 1,0 22.4,0 a11.2,11.2 0 1,0 -22.4,0Z"/>
+    <path d="M476,285 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0Z"/>
+    <path fill="none" stroke-width="9" stroke-linecap="round"
+          d="M90,215 L186,205 L261,240 L331,285 L351,355 L441,370 L476,285"/>
+    <g transform="translate(25,-45)">
+      <g transform="rotate(10 420 366)">
+        <path d="M340,325 h74 a6,6 0 0 1 0,12 h-74 a6,6 0 0 1 0,-12Z"/>
+        <path d="M340,355 h74 a6,6 0 0 1 0,12 h-74 a6,6 0 0 1 0,-12Z"/>
+        <path d="M341,384 h28 a6,6 0 0 1 0,12 h-28 a6,6 0 0 1 0,-12Z"/>
+        <path d="M385,384 h28 a6,6 0 0 1 0,12 h-28 a6,6 0 0 1 0,-12Z"/>
+      </g>
+    </g>
+
+  </g>
+
+</svg>
