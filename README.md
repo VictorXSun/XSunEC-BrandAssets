@@ -1,7 +1,8 @@
 # 🟦 XSunEC · BrandAssets Repository
 
 <p align="center">
-  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/XSunEC_Badge_DualSegment_v3c.svg" width="220" alt="XSunEC Badge v3c"/>
+  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/XSunEC_Badge_DualSegment_v3c.svg" width="220" alt="XSunEC Badge v3c"/><br>
+  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/XSunEC_Badge_DualSegment_v3c_preview.png" width="520" alt="XSunEC Badge Preview"/>
 </p>
 
 > **Smart · Compact · Reliable solutions for modern living.**  
