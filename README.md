@@ -1,84 +1,74 @@
-# 🟦 XSunEC · BrandAssets Repository
-
+<!-- XSunEC · BrandAssets Repository · v1.0-Stable -->
 <p align="center">
-  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/badges/XSunEC_Badge_DualSegment_v3c.svg" width="220" alt="XSunEC Badge v3c"/><br>
-  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/badges/XSunEC_Badge_DualSegment_v3c_preview.png" width="520" alt="XSunEC Badge Preview"/>
+  <img src="https://github.com/VictorXSun/XSunEC-BrandAssets/blob/main/logos/badges/XSunEC_Badge_DualSegment_v3c_preview.png" width="280" alt="XSunEC Badge"/>
 </p>
 
-> **Smart · Compact · Reliable solutions for modern living.**  
-> Official global brand identity assets for **XSunEC** — a smart-appliance brand specializing in compact, reliable, and innovative products for the global market.
+<h1 align="center">XSunEC · BrandAssets Repository</h1>
+<p align="center"><strong>Smart · Compact · Reliable solutions for modern living.</strong></p>
+
+<p align="center">
+  Official brand identity assets for <strong>XSunEC</strong> — a smart-appliance brand specializing in compact, reliable, and innovative products for the global market.<br/>
+  <a href="https://xsunec.com" target="_blank">🌐 xsunec.com</a> |
+  <a href="mailto:brand@xsunec.com">✉️ brand@xsunec.com</a>
+</p>
 
 ---
 
-## 🧭 Repository Overview
+## 🧱 Repository Overview
 
-This repository serves as the **official source of truth** (SSOT) for XSunEC brand identity materials.  
-All visual assets, logos, and color definitions follow the **Visual Identity v3c baseline** and are maintained under the  
-[XSunEC Global Operations](https://xsunec.com) governance framework.
-
-### 📁 Directory Structure
-- `/logos/` — Official logos, profile icons, and brand marks (SVG/PNG)
-- `/colors/` — Color tokens and gradients (JSON, ASE)
-- `/guidelines/` — Brand usage & typography rules (PDF/MD)
-- `/social/` — Platform-specific adaptations (LinkedIn, YouTube, Facebook, etc.)
+This repository serves as the **official source of truth (SSOT)** for XSunEC brand identity materials.  
+All visual assets, logos, color definitions, and social banners follow the **Visual Identity v3c baseline**  
+and are maintained under the **XSunEC Global Operations** framework.
 
 ---
 
-## 🖼️ Brand Visual System · v3c
+## 🗂 Directory Structure
 
-| Element | Description | Example |
-|----------|--------------|----------|
-| **Primary Color** | Deep Navy `#110B2E` | Background / UI base |
-| **Accent Color** | Gold `#DAA520` | Highlight / CTA |
-| **Typography** | Cinzel / Inter | Titles / Body text |
-| **Shape Language** | Circular mark with hexagram orbit | XSun Symbol |
-| **Badge Version** | Dual-Segment (Dark / Light) | `XSunEC_Badge_DualSegment_v3c.svg` |
-
-> All brand assets follow export standards: **SVG → PNG → WebP**, with responsive scale sets (400×400 / 800×800).
+| Folder | Description | Example |
+|:--------|:-------------|:---------|
+| [`/logos/badges/`](./logos/badges) | Public badges & dual-segment icons for use in GitHub, documentation, and repositories. | `XSunEC_Badge_DualSegment_v3c.svg` |
+| [`/logos/main/`](./logos/main) | Primary XSunEC logos for dark / light / white-on-navy backgrounds. | `XSunEC_MainLogo.svg` |
+| [`/logos/symbols/`](./logos/symbols) | Stand-alone brand symbols (巽 hexagram, North-Star mark). | `XSunEC_MainSymbol.svg` |
+| [`/logos/variants/`](./logos/variants) | Layout variants such as stacked or horizontal tag logos. | `XSunEC_StackedLogo.svg` |
+| [`/logos/banners/`](./logos/banners) | Official web and social banners. | `XSunEC_Brandfetch_Banner_1536x1024.png` |
 
 ---
 
-## 🔗 Related Repositories
+## 🪄 Brand Visual System — v3c
 
-| Repository | Purpose |
-|-------------|----------|
-| [XSunEC-Docs](https://github.com/VictorXSun/XSunEC-Docs) | Integration & documentation hub |
-| [XSunEC-Website](https://github.com/VictorXSun/XSunEC-Website) | UI patterns, header/footer, CTA components |
-| [XSunEC-BrandAssets](https://github.com/VictorXSun/XSunEC-BrandAssets) | (Current) Visual & identity system |
-
----
-
-## 🧩 Usage & Guidelines
-
-- **✅ Allowed:** Marketing, editorial, educational use related to XSunEC.  
-- **🚫 Not allowed:** Altering proportions, recoloring logos, or using assets for non-XSunEC products.  
-- For licensing inquiries, contact [brand@xsunec.com](mailto:brand@xsunec.com)
+| Element | Description | File Reference |
+|:----------|:-------------|:----------------|
+| **Primary Logo** | Deep-navy background, gold text. | `/logos/main/XSunEC_MainLogo.svg` |
+| **Light Logo** | White text version for dark surfaces. | `/logos/main/XSunEC_MainLogo_Alt-White.svg` |
+| **Symbol (巽)** | Stand-alone mark for icons and favicons. | `/logos/symbols/XSunEC_MainSymbol.svg` |
+| **Stacked Logo** | Compact vertical layout. | `/logos/variants/XSunEC_StackedLogo.svg` |
+| **Banner** | Brandfetch / OpenGraph / Mail header asset. | `/logos/banners/XSunEC_Brandfetch_Banner_1536x1024.png` |
 
 ---
 
-## ⚙️ Version Control
+## 🧩 Usage & Licensing
 
-| Version | Description | Date |
-|----------|--------------|------|
-| v3c | Dual-Segment badge & unified color system | Oct 2025 |
-| v3b | SVG cleanup, export optimization | Sep 2025 |
-| v3a | Visual refresh baseline | Aug 2025 |
+All assets in this repository are © **XSunEC Global Operations**, 2025-present.  
+Usage is permitted under the following conditions:
 
----
+- ✅ Internal and partner use for marketing, digital, and print materials.  
+- ✅ Public referencing when linking to official XSunEC products or publications.  
+- ❌ Modification, recoloring, or derivative logo creation without written approval is prohibited.  
+- ❌ Use in impersonation, resale, or unrelated commercial purposes is strictly forbidden.
 
-## 🧾 License
-
-This repository is distributed under the **MIT License**  
-with brand-specific restrictions for logo usage (see `/guidelines/Brand-Usage-Policy.md`).
-
-© 2025 XSunEC Global Operations
-Smart · Compact · Reliable — Powered by XSunEC Global Operations
+For commercial, co-branding, or press inquiries, please contact  
+📩 **brand@xsunec.com**
 
 ---
 
-### 🌍 Connect with XSunEC
-[Website](https://xsunec.com) | [LinkedIn](https://linkedin.com/company/xsunec) | [X (Twitter)](https://x.com/xsunec) | [YouTube](https://youtube.com/@xsunec) | [WhatsApp](https://wa.me/15082925162)
+## 🧭 Repository Metadata
+
+| Item | Value |
+|------|-------|
+| **Version** | v1.0-Stable (Oct 2025) |
+| **Maintainer** | Victor XSun · XSunEC Global Operations |
+| **License** | © 2025 XSunEC Global Operations · All Rights Reserved |
+| **Website** | [xsunec.com](https://xsunec.com) |
+| **Repository** | [github.com/VictorXSun/XSunEC-BrandAssets](https://github.com/VictorXSun/XSunEC-BrandAssets) |
 
 ---
-> *Maintained under* `📱 Social Media v1.2 — Global Communication & Brand Presence (Oct–Dec 2025)`  
-> *Visual System:* `XSunEC Visual Identity v3c`
